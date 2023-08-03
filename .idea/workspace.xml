@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edddd7e8-4ef0-4644-8534-f6b3b0352e2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MoeGoe/MoeGoe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/configs/32k.json" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/configs/32k.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/configs/40k.json" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/configs/40k.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/configs/48k.json" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/configs/48k.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/export_onnx.py" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/export_onnx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/infer-web.py" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/infer-web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/0_gt_wavs/mute32k.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/0_gt_wavs/mute40k.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/0_gt_wavs/mute48k.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/1_16k_wavs/mute.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/2a_f0/mute.wav.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/2b-f0nsf/mute.wav.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/3_feature256/mute.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/logs/mute/3_feature768/mute.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/train_nsf_sim_cache_sid_load_pretrain.py" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/train_nsf_sim_cache_sid_load_pretrain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/trainset_preprocess_pipeline_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/trainset_preprocess_pipeline_print.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2TQDsb5G6ySR8dPG57HJfAEmTSm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "last_opened_file_path": "D:/ProgramData/miniconda3/Scripts/conda.exe",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\Python\Voice_Inference" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\Python\Voice_Inference" />
+      <recent name="D:\project\Python\Voice_Inference\MoeGoe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.infer-web">
+    <configuration name="infer-web" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Voice_Inference" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI/infer-web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Voice_Inference" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Voice_Inference" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tts_reference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Voice_Inference" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MoeGoe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\project\Python\Voice_Inference\tts_reference.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui-web" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Voice_Inference" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui-web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.infer-web" />
+        <item itemvalue="Python.ui-web" />
+        <item itemvalue="Python.tts_reference" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edddd7e8-4ef0-4644-8534-f6b3b0352e2f" name="Changes" comment="" />
+      <created>1690966619099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690966619099</updated>
+      <workItem from="1690966715967" duration="22416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Voice_Inference$infer_web.coverage" NAME="infer-web Coverage Results" MODIFIED="1691063237317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Retrieval-based-Voice-Conversion-WebUI" />
+    <SUITE FILE_PATH="coverage/Voice_Inference$TTS.coverage" NAME="TTS Coverage Results" MODIFIED="1690984202363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MoeGoe" />
+    <SUITE FILE_PATH="coverage/Voice_Inference$test.coverage" NAME="test Coverage Results" MODIFIED="1690982992889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Voice_Inference$ui_web.coverage" NAME="ui-web Coverage Results" MODIFIED="1691051649547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
